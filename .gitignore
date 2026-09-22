@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Terraform-generated files
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Lambda layer generated dependencies
+layers/pydantic-layer/python/

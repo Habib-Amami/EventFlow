@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/layers/common-layer/python",
+    "${workspaceFolder}/services/ingestion"
+  ]
+}
