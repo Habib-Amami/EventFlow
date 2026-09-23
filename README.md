@@ -1,4 +1,5 @@
 # EventFlow
+[![CI](https://github.com/Habib-Amami/EventFlow/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/Habib-Amami/EventFlow/actions/workflows/ci.yml)
 
 EventFlow is an event ingestion pipeline built with AWS Lambda, API Gateway, SQS, S3, and DynamoDB.
 
